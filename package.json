@@ -1,14 +1,26 @@
 {
-    "name": "food",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "devDependencies": {
-        "json-server": "^0.16.1"
-    }
+  "name": "food",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.16.1",
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roman552/WepApp.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/roman552/WepApp/issues"
+  },
+  "homepage": "https://github.com/roman552/WepApp#readme",
+  "description": ""
 }
